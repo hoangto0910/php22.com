@@ -1,5 +1,5 @@
 <?php
-	$name = "&nbsp&nbsp vu vAn thuOng &nbsp&nbsp";
+	$name = "&nbsp&nbsp vU vAN tHuOnG &nbsp&nbsp";
 	// echo "Chuỗi ban đầu : " . $name . "<br>";
 	// function chuanhoachuoi($name){
 	// 	strtolower($name);
