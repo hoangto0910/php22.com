@@ -1,0 +1,29 @@
+<?php 
+	session_start();
+	$products = array(
+		'SP01'=>array(
+			'MaSp'=>'SP01',
+			'TenSp'=>'Iphone5',
+			'DonGia'=>5000000,
+			'SoLuong'=>100
+		),
+		'SP02'=>array(
+			'MaSp'=>'SP02',
+			'TenSp'=>'Iphone6',
+			'DonGia'=>6000000,
+			'SoLuong'=>200
+		),
+		'SP03'=>array(
+			'MaSp'=>'SP03',
+			'TenSp'=>'Inphone7',
+			'DonGia'=>7000000,
+			'SoLuong'=>20
+		),
+		'SP04'=>array(
+			'MaSp'=>'SP04',
+			'TenSp'=>'Inphone8',
+			'DonGia'=>8000000,
+			'SoLuong'=>30
+		),
+	);
+ ?>
