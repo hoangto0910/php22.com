@@ -34,7 +34,7 @@
                 <label for="">content</label>
                 <textarea name="content" class="form-control" id="summernote" cols="30" rows="10"></textarea>
             </div>
-             <div class="form-group">
+            <div class="form-group">
                 <label for="">user</label>
                	<select name="user_id" id="" class="form-control">
                		<?php foreach($users as $user) {?>
